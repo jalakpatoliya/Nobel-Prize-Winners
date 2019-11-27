@@ -1,0 +1,25 @@
+{
+  "name": "nobel-prize-winners",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalakpatoliya/Nobel-Prize-Winners.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jalakpatoliya/Nobel-Prize-Winners/issues"
+  },
+  "homepage": "https://github.com/jalakpatoliya/Nobel-Prize-Winners#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "circular-json": "^0.5.9",
+    "lodash": "^4.17.15",
+    "volleyball": "^1.5.1"
+  }
+}
